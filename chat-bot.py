@@ -16,3 +16,7 @@ def get_bot_langsuggestion(response):
     else:
         return "Hmm, I don't seem to have a language family which corresponds with that particular historical period. Perhaps another idea?"
 
+print("This program is to help history lovers choose a language or language family to learn or research based on a historical period they take interest in!")
+print("There are a wide array of historical periods to match languages with, and cultures to fall in love with!")
+print("Simply type 'done' when you're finished with this exploration (which, why would you be? :)!)")
+
