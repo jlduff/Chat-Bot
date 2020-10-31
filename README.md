@@ -1,1 +1,2 @@
 # Chat-Bot
+This chat bot is an idea I had for something which helps the user match a language to learn or language family to learn about based on the historical period they state an interest in. This can have utility for anyone from linguistic anthropologists looking for an idea for their next case study, to people who have an interest in histories or cultures, and may want to diversify and deepen their knowledge of a time period or historical time of their choosing. 
