@@ -20,3 +20,12 @@ print("This program is to help history lovers choose a language or language fami
 print("There are a wide array of historical periods to match languages with, and cultures to fall in love with!")
 print("Simply type 'done' when you're finished with this exploration (which, why would you be? :)!)")
 
+response = input("What is a historical period or historical group or nation that you're interested in?  ")
+
+if response == "done":
+        break
+
+print(f"So, you like the history of {response}?")
+
+bot_langsuggestion = get_bot_langsuggestion(response)
+print(bot_reccommend)
